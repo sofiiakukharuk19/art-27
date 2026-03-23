@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta charset="utf-8"> 
+<meta name="description" content="Discover the magic of Japan with our curated group travels and private tours to Tokyo, Kyoto, and beyond.">
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+    <h1>Discover the Wonders of Japan</h1>
+    <p>From the serene temples of Kyoto to the bustling streets of Tokyo, we provide unforgettable journeys through the Land of the Rising Sun.</p>
+    <h2>Packages</h2>
+    <p>Choose your perfect Japanese adventure from our two signature travel styles:</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://www.trafalgar.com/real-word/wp-content/uploads//2018/01/Mount-Fuji-Japan-www.istockphoto.com_gb_photo_beautiful-cherry-blossoms-with-mount-fuji-japan-gm147914231-12967184-prasit_chansareekorn.jpg" alt="Beautiful Japanese landscapes"></a>
+      <figcaption>A breathtaking view of Mount Fuji framed by spring cherry blossoms.</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/002/061/318/non_2x/bamboo-grove-in-the-forest-at-arashiyama-at-kyoto-japan-free-photo.jpg" alt="Japanese walk way in Gion town old traditional wooden home district alley"></a>
+      <figcaption>The towering green stalks of the Arashiyama Bamboo Grove in Kyoto.</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://www.touristjapan.com/wp-content/uploads/2025/09/japan-landscape-night-city-1024x683.jpg" alt="Tokyo Skyline"></a>
+      <figcaption>A traditional wooden alleyway in the historic Gion district of Kyoto.</figcaption>
+    </figure>
+  </body>
+</html>   
