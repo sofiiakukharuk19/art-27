@@ -1,0 +1,30 @@
+<!Doctype html>
+<html lang="en">
+  <head>
+    <title>Guacamole Recipe</title>
+    <meta charset="utf-8">
+  </head>
+<body>
+  <h1>Simple Fresh Guacamole</h1>
+  <p>This blend of fresh avocados, spicy peppers, and cilantro is perfect as a pourable sauce for tacos or a dip for chips.</p>
+  <h2>Ingredients</h2>
+  <ul>
+    <li>3 ripe avocados</li>
+    <li>1/2 white onion</li>
+    <li>2 jalapeño peppers</li>
+    <li>1 serrano pepper</li>
+    <li>1 bunch fresh cilantro</li>
+    <li>Water and salt to taste</li>
+  </ul>  
+  <h2>Instructions</h2>
+  <ol>
+    <li>Slice the jalapeños and serrano pepper, removing stems (and seeds if you want less heat).</li>
+    <li>Place the sliced peppers into a blender with a small amount of water and blend until smooth.</li>
+    <li>Add the sliced onion, 2 of the avocados, and the cilantro to the blender.</li>
+    <li>Pulse and blend all ingredients together until the mixture is creamy.</li>
+    <li>Add salt and additional water gradually, blending until you reach your desired consistency.</li>
+    <li>For extra texture, dice the remaining avocado and stir it into the finished guacamole by hand.</li>
+    </ol>
+<img src="https://www.muydelish.com/wp-content/uploads/2025/04/guacamole-falso.jpg" alt="Guacamole">
+</body>
+</html>
