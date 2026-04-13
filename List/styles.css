@@ -1,0 +1,17 @@
+a:link { 
+  color: #0DA868;}
+a:visited { 
+  color: #EDE215;}
+a:hover { 
+  color: #E02281;}
+a:focus { 
+ outline: 2px solid  #A4E022}
+a:active { 
+  color: orange}
+  h2 {
+  text-align: center;}
+  ul{list-style-type: none;}
+  li {margin:5px;}
+a {
+  text-decoration: none;
+}  
